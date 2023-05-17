@@ -9,7 +9,7 @@ Welcome to the Complete Web Development Bootcamp, the only course you need to le
 
 At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery.
 
-Here's why:
+## Here's why:
 
     The course is taught by the lead instructor at the App Brewery, London's leading in-person programming bootcamp.
 
@@ -24,3 +24,42 @@ Here's why:
     You'll save yourself over $12,000 by enrolling, but still get access to the same teaching materials and learn from the same instructor and curriculum as our in-person programming bootcamp.
 
     The course is constantly updated with new content, with new projects and modules determined by students - that's you!
+    
+    
+
+## Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
+
+    Front-End Web Development
+    HTML 5
+    CSS 3
+    Flexbox
+    Grid
+    Bootstrap 5
+    Javascript ES6
+    DOM Manipulation
+    jQuery
+    Bash Command Line
+    Git, GitHub and Version Control
+    Backend Web Development
+    Node.js
+    NPM
+    Express.js
+    EJS
+    REST
+    APIs
+    Databases
+    SQL
+    MongoDB
+    Mongoose
+    Authentication
+    Firebase
+    React.js
+    React Hooks
+    Web Design
+    Deployment with GitHub Pages, Heroku and MongoDB Atlas
+    Web3 Development on the Internet Computer
+    Blockchain technology
+    Token contract development
+    NFT minting, buying and selling logic
+
+By the end of this course, you will be fluently programming and be ready to make any website you can dream of.
