@@ -4,10 +4,9 @@
   <img src="https://github.com/nsinorov/Web-Development-Bootcamp-/assets/45227327/63adee94-a218-4721-b51c-fda2ea3a5678" alt="Udemy"/>
 </p> 
 
+Description for the Cource The Complete Front-End Development 2023: 
 
 Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! 
-
-
 
 ## Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
