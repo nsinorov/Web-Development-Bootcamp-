@@ -5,3 +5,6 @@ https://colorhunt.co/
 
 
 Flags made with CSS --> http://lascarid.es/fussyflags/
+
+
+----> Inline explained: https://appbrewery.github.io/css-display/
