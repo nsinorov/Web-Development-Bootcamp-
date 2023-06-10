@@ -8,3 +8,6 @@ Flags made with CSS --> http://lascarid.es/fussyflags/
 
 
 ----> Inline explained: https://appbrewery.github.io/css-display/
+
+
+----> Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
